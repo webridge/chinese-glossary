@@ -1,0 +1,315 @@
+"本著作係依據創用 CC 姓名標示-相同方式分享 3.0 台灣 授權條款進行授權。如欲瀏覽本授權條款之副本，請造訪 http://creativecommons.org/licenses/by-sa/3.0/tw/ ，或寄信至 Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA 。
+本作品采用知识共享组织署名-相同方式共享 2.5 中国大陆许可协议进行授权。查看本许可协议的复制件，请访问http://creativecommons.org/licenses/by-sa/2.5/cn/或写信到美国加利福尼亚州旧金山市霍华德街543号5层知识共享组织（邮编 94105）索取。
+本作品係依據共享創意署名-相同方式共享 3.0 香港 授權條款進行授權。如欲瀏覽本授權條款之副本，請造訪 http://creativecommons.org/licenses/by-sa/3.0/hk/ ，或寄信至 Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA 。
+"
+注意事项：添加时请先查找词条是否已经存在；
+en,zh_TW,zh_CN,zh_HK,pos,description,context,example,note
+access,存取,访问,存取,verb
+accessibility,輔助功能/無障礙輔助,无障碍/辅助,無障礙輔助
+Accumulate,累積,累计,累積,verb
+Accumulation,累積,累计,累積,noun
+acknowledge,,,得知
+acknowledgement,,,知情
+administrator,管理員,管理员,管理員,,,system account
+algorithm,演算法,算法,算法
+analog,類比,类似/比较/模拟,類比
+analysis,分析,分析,分析
+analyst,,,分析員
+anonymous,匿名,匿名,匿名,noun
+antenna,天線,天线,天綫
+application,應用程式,应用程序/程序,應用程式
+approval,批准,批准,批准,noun
+approve,批准,批准,批准,verb
+architect,,,架構師
+architecture,架構,架构,架構,,,,x86 architecture
+attachment,附件,附件,,noun,file that attached in a email,email
+authenticate,認證/驗證,认证/验证,驗證,verb
+authentication,認證/驗證,认证/验证,驗證,noun
+authorize,授權,授权,授權
+backtrace,回溯,回溯,,verb,,software development
+backup,備份,备份,備份
+bad sector,壞軌,坏区/坏道,壞磁區
+bandwidth,頻寬,带宽,頻寬
+battery,電池,电池,電池
+Bill Gates,比爾‧蓋茲,比尔-盖茨,比爾-蓋茨
+binary tree,二進位樹,二分树,二分樹,,貌似国内教材多为“二叉树”(dword)
+Bluetooth,藍牙,蓝牙,藍芽
+Bookmark,書籤,书签,書籤,noun
+boot,開機,启动,啟動
+branch,分枝,分支,分支
+broadband,寬頻,宽频,寬頻
+browse,瀏覽,浏览,瀏覽
+buffer,緩衝區,缓冲,緩衝區
+bug,軟體錯誤/臭蟲,错误、漏洞,,,,software,bug report
+build,組建,构建,組建,,,,build version: %s
+burn,燒錄,刻录,燒,verb,,,burn an image
+cable,纜線,电缆,電線
+cache,快取,缓存,快取,noun
+CD,CD,CD,光碟
+changelog,修改記錄,更改记录/修改记录,修改記錄
+check,檢查,检查,檢查
+chipset,晶片組,芯片组,晶片組,noun,,hardware
+cluster,,集群,叢集,noun
+code,代碼,代码,代碼
+codec,編解碼器,编解码器,編碼,noun
+collaboration,協同運作,协作,協作
+color,顏色,颜色/色彩,顏色
+column,欄,列,列,noun
+command line interface,指令/命令列介面,命令行界面
+compile,編譯,编译,編譯,verb,,software development
+computer,電腦,电脑/计算机,電腦,noun
+configuration,設定/組態,配置,設定
+configure,設定,配置,設定
+connect,連接,连接,連接
+connection,連線,连接,連綫,noun,,,connect a connection
+content,內容,内容,內容,,,,cordless mouse
+cordless,無線,无线,無綫
+CPU,中央處理器,中央处理器,中央處理器,noun
+cracker,駭客,骇客,駭客
+create,建立,创建,新增,verb
+cursor,游標,光标,箭嘴,noun
+CVS,,,,,,development
+daemon,幕後程式/守護程式,守护程序,,,,,service daemon
+data,資料,数据,資料
+debugger,除錯器,调试器,除蟲器,noun,,software development
+Decrement,遞減,递减,遞減
+delete,刪除,删除,刪除,verb
+denied,被拒絕,拒绝,拒絶,adj,,,connection denied
+dependency,相依性,依赖,依賴,noun
+design,設計,设计,設計
+desktop,桌面,桌面,桌面
+developer,開發者,开发人员,開發員
+device,裝置,设备,裝置,noun,,hardware,no device found
+dial up,撥接,拨号,撥號
+digital,數位,数码,數碼,,,,digital camera
+directory,目錄,目录/文件夹,目錄,noun
+disc,碟片,光盘,碟片,,,,optical disc
+disk,磁碟,磁盘,磁碟
+display card,顯示卡,显卡,顯示卡
+document,文件,文件,文件,noun
+documentation,文件,文件,文件,,,internet
+domain,網域,域,,noun
+draft,草稿,草稿,草稿,noun
+drive,磁碟機、光碟機（依情況）,驱动器,磁碟,noun,,,Please insert a Disc in the drive and press enter
+driver,驅動程式,驱动,驅動程式
+dump,,转存,,,,developing?
+embedded,嵌入式,嵌入式,嵌入式
+enclosure,外接盒,外置,外置盒
+engine,引擎,引擎,引擎
+engineer,工程師,工程师,工程師
+engineering,工程,工程,工程
+exception,例外,异常, 例外
+Exponential,指數的,指数,幾何的,adj
+export,匯出,导出,匯出
+FAQ,常見問答集,常见问题,,,Frequently asked questions
+Favorite,喜愛,收藏夹,喜愛,noun
+FCoE,,光纤连接的以太网
+feature,特色,特性,特點
+file,檔案,文件/文档,檔案,noun
+firewall,防火牆,防火墙,防火牆
+floating point,浮點,浮点数,浮點
+folder,資料夾,文件夹,文件夾
+format,格式,格式,格式,noun
+format,格式化,格式化,格式化,verb
+frame,幀/畫格,帧,幀數
+framebuffer,,帧缓冲（区）,,,大陆一般的文章是这么写的（pingz）
+freezed,凍結,冻结,當機,adj,,,translation po file is freezed
+function,函數,函数,函数,noun,,program
+gadget,小工具,小工具
+gateway,閘道,网关,閘道,noun,,network
+git,git,,,,,"vcs, software"
+global,全域,全局的,全局,adj
+grammar,文法,语法,文法
+Graphical User Interface,圖形化使用者介面,图形用户界面
+graphics,圖形,图形/图像,圖像
+graphics card,顯示卡/圖形卡,显卡/图形卡,圖像卡
+guest machine,客戶機,客户机,客機器,noun,,virtualization
+hacker,駭客,黑客,黑客
+hang,當機,死机,當機
+hard drive / hard disk,硬碟,硬盘,硬碟機,noun
+hardware,硬體,硬件,硬體
+help,求助/幫助/說明,帮助,,,,,help file,zh_TW 目前沒有統一的翻法，各自為政。
+high definition,高解析度,高清,高清
+host machine,主控機,宿主机,主機器,noun,叫主機很怪 (kaio),virtualization
+hotplug,熱插拔,热插拔,熱插拔,noun
+IM,即時通,即时通讯,,,Instant Messenger 縮寫
+image,映像檔,镜像,映像檔,noun,一种文件类型,for buring and mounting,DVD image
+image,影像,图像,,,,as picture
+implement,實作,实现,實作
+import,匯入,导入,匯入
+inbox,收信匣,收件箱,收件箱,noun,,mail
+Increment,遞增,递增,遞增
+infrared,紅外線,红外线,紅外線
+infrastructure,基礎建設,基础设施,基礎建設
+installation notes,安裝備註,安装注记,,,,,,"marked in yellow, will remove colouring once zh-TW and zh-CN translation are completed (chanueting)"
+instant messenger,即時通訊程式,即时通讯
+instruction,指示,指令,指令
+integration,整合,整合/集成,集成,,,,,我試譯的(chanueting)
+internationalization,國際化,国际化,國際化,noun
+journal,日誌,日志,日誌
+kbd,鍵盤,,,,keyboard 縮寫,virtual kbd
+kernel,核心,内核,核心,noun
+keyboard,鍵盤,键盘,鍵盤
+license,授權條款,授权协议,授權書
+lifecycle,生命週期,生命周期,生命週期
+link,連結,链接,連結,noun
+Linus Torvalds,林納斯‧托瓦茲 ,林纳斯-托瓦兹,林納斯-托瓦茲
+Linux,Linux,Linux,Linux,noun
+list,清單/列表,列表,列表
+locale,語言地區碼,语言区码/本地码/母语码,語言地區碼,,,"zh_TW.utf8, en_US.utf8",,私自命名(zerng07)/私自命名的(CyrusYzGTt)/私自命名的 (kaio)
+localization,本地化,本地化,本地化
+log,日誌,日志,記錄檔
+LUN,,逻辑单位数,,,Used in SCSI
+maintain,維護,维护,維護
+maintainer,維護者,维护者,維護者
+management,管理,管理,管理
+manager,管理員,经理/管理员,管理員,,,people
+manager,管理員、管理程式,管理器,管理,noun,,software，User interface,X Window manager，
+Master Boot Record,主要開機紀錄區,主引导记录,主開機磁區,,harddisk MBR,hardware,,Abbreviated as MBR
+media,媒體,介质,媒介,noun,,,installation media,是我命名的(chanueting)
+memory,記憶體,内存,記憶體,noun
+merge,合併,合并,融合
+method,方法,方法,方法
+micromanagement,微控制,微控/微管,矯枉過正管理
+middleware,中介軟體,中间件,仲介軟體
+model,模型,模型,模型
+modem,數據機,调制解调器,數據機,noun
+modify,修改,修改,更改
+module,模組,模块,,noun,,,loading module %s...
+monitor,監控,监视,監控,verb
+motherboard / mainboard,主機板,主板,主機板
+mouse,滑鼠,鼠标,滑鼠,noun
+network,網路,网络,網絡
+node,,节点,,noun
+notebook,筆記型電腦,笔记本,手提電腦
+offline,離線,离线,離綫
+online,上線,在线,綫上
+operating system,作業系統,操作系統,作業系統
+optical disc,光碟,光盘,光碟,noun
+optical fiber,光纖,光纤,光纖
+package,套件,包/套件,套件
+parallel port,平行埠,并口,平行埠,noun
+partition,分割區,分区,分區,,,harddisk 
+performance,效能,性能,表現
+peripheral,周邊,周边,周邊,adj
+permission,許可權,权限,權限,noun
+permit,允許,允许,授權,verb
+photo,相片,照片,,noun
+picture,圖片,图片,,noun
+pixel,像素/畫素,像素,像素
+plan,計畫,规划,規劃
+play,播放,播放,,verb
+plugin,外掛程式,插件,外掛程式,noun
+presentation,演講,介绍/演示,演示
+presenter,演講者,主持人,演示者
+printer,印表機,打印机,打印機
+product manager,,产品经理,產品經理
+programming,程式設計,编程,寫程式
+project,專案,项目,計劃
+project manager,,项目经理,專案經理
+property,屬性,属性,特性
+protocol,協定,协议,,noun,,,transmission control protocol
+queue,佇列,队列,佇列
+RAID level,,阵列+（级/等）,,,,harddisk configuration,The system was configured as RAID level 0 (or RAID 0)
+RAM,隨機存取記憶體,随机存取存储器/随机存储器 ,隨機存取記憶體,noun
+read,讀取,读取,讀取
+reboot,重新開機,重启,重新啟動
+record,記錄,记录,記錄
+recover,復原,复原,復原,verb
+recovery,復原,复原,復原,noun
+recursive,遞迴,递归,遞迴
+redundant array of independent disks,,独立磁盘冗余阵列,,,RAID,hardware harddisk,,"Sometimes translates as 'Redundant array of inexpensive disks', abbreviated as RAID"
+reject,拒絕,拒绝,拒絶
+release,發行,发布,發行,verb,,,Fedora 13 will be released soon！
+release notes,發行備註,发行注记
+remark,,备注,備注
+remarkable,,值得注意,值得關注
+remote,遠端,远程,遙距
+remote control,遠端遙控,遥控/远程控制,遙控
+repository,某某庫（依情況）,源,庫
+resolution,解析度,分辨率,解像度,noun,,,screen resolution is 1024x768
+resolve,解決,解决,解決
+restart,重新啟動,重启
+restore,復原,还原
+retrieve,擷取,接收,擷取,noun,,mail
+revert,還原,还原,還原
+revision,修訂,修订,修訂,,,document editing,revision history
+ROM,唯讀記憶體,只读存储器,唯讀記憶體
+router,路由器,路由器/路由,路由器
+row,列,行,行,noun
+SAN,,存储区域网络
+scale,縮放
+scanner,掃瞄器,扫描仪,掃描器
+screen,螢幕,屏幕,熒幕,noun
+screensaver,螢幕保護程式,屏幕保护,螢幕保護程式
+sector,磁區,扇区,扇區
+serial port,序列埠,串行端口/串口
+server,伺服器,服务器,伺服器,noun,,hardware
+service,服務,服务,服務
+servlet,,程序组件
+share,分享,共享,分享
+sign in,登入,登录,登入,verb
+sign out,登出,退出,登出
+sign up,註冊,注册,登記
+slideshow,投影片,幻灯片
+software,軟體,软件,軟體
+solid state drive,固態硬碟,固态驱动器,固態硬碟
+solution,解決方案,解决方法/方案,解決方案
+sound card,音效卡,声卡,音效卡
+source,來源,源,源
+source code,源碼,源码,源碼
+spam,垃圾郵件,垃圾邮件,垃圾郵件,noun,,mail
+speakers,喇叭,扬声器,掦聲器
+split,分割,分割,分拆
+spreadsheet,試算表,电子表格,試算表
+stack,堆疊,堆栈,堆疊
+strategy,策略/方針,策略,策略
+structure,結構,结构,結構
+Sync,同步,同步,同步,accr.
+synchronization,同步,同步,同步,noun
+synchronize,同步,同步,同步,verb
+syntax,語法,语法,語法
+tablet,平板,平板,平板
+tag,標籤,标签,標記
+template,模版,模板,模板
+terminal,終端機,终端,終端機,noun
+terminate,終止,终止,終止
+text-mode,文字模式,文本模式,文字模式
+theme,主題/佈景主題,主题,主題
+token,,令牌,,,,network,token network
+touchpad,觸控板,触摸板,觸控板
+trackball,軌跡球,轨迹球,軌跡球
+transformer,變壓器,变压器,變壓器
+translate,翻譯,翻译,翻譯,verb
+translation,翻譯,翻译,翻譯,noun
+translator,翻譯者,译者,翻譯者,noun
+trash,回收筒/垃圾桶,回收站
+tree,樹,树,樹
+trunk,主幹,主干/主要,主幹
+ultraviolet,紫外線,紫外线,紫外線
+underrun,,溢出,溢出
+undo,復原/取消,撤销/取消
+universal serial bus,,通用串行总线,,,USB
+update,更新,更新,更新,noun,,software
+upgrade,升級,升级,升級,noun,,software/system
+user,使用者,用户,用家
+VCS,VCS,版本控制系统,版本控制系統,,Version Control System,development
+vector,向量,矢量/向量,向量
+vendor,廠商,供应商,廠商
+version,版本,版本,版本,,,development
+Version Control System,版本控制系統,版本控制系统,版本控制系統,,,development
+view,檢視,浏览,查看,verb
+virtual machine,虛擬機,虚拟机,虚擬機
+virtualization,虛擬化,虚拟化,虚擬化,noun
+VPN,虛擬私人網路,虚拟专用网络,虚擬私人網絡
+warranty,保固/保證,保修,保用
+webcam,網路攝影機,摄像头,視像鏡頭
+widescreen,寬螢幕,宽屏,寬螢幕
+widget,小工具,控件
+wired,有線,有线,有綫
+wireless,無線,无线,無綫
+write,寫入,写入,寫入
+zig-zag,,,之字形
+zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
+zoom in,拉近,放大
+zoom out,拉遠,缩小
