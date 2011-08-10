@@ -313,5 +313,9 @@ zig-zag,,,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
 zoom in,拉近,放大
 zoom out,拉遠,缩小
-public key,,公匙
-private key,,私匙
+public key,,公匙,,
+private key,,私匙,,
+pre-installation,,安装前,,,,kickstart 安装
+post-installation,,安装后,,,,kickstart 安装
+group,,组,,
+
