@@ -318,4 +318,4 @@ private key,,私匙,,
 pre-installation,,安装前,,,,kickstart 安装
 post-installation,,安装后,,,,kickstart 安装
 group,,组,,
-
+metadata,,元数据,,
