@@ -68,7 +68,7 @@ CPU,中央處理器,中央处理器,中央處理器,noun
 cracker,駭客,骇客,駭客
 create,建立,创建,新增,verb
 cursor,游標,光标,箭嘴,noun
-CVS,,,,,,development
+CVS,,CVS,,,,development
 daemon,幕後程式/守護程式,守护程序,,,,,service daemon
 data,資料,数据,資料
 debugger,除錯器,调试器,除蟲器,noun,,software development
@@ -310,7 +310,7 @@ widget,小工具,控件
 wired,有線,有线,有綫
 wireless,無線,无线,無綫
 write,寫入,写入,寫入
-zig-zag,,,之字形
+zig-zag,,之字形,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
 zoom in,拉近,放大
 zoom out,拉遠,缩小
