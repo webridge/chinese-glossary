@@ -1,9 +1,9 @@
+#!en,zh_TW,zh_CN,zh_HK,pos,description,context,example,note
 "本著作係依據創用 CC 姓名標示-相同方式分享 3.0 台灣 授權條款進行授權。如欲瀏覽本授權條款之副本，請造訪 http://creativecommons.org/licenses/by-sa/3.0/tw/ ，或寄信至 Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA 。
 本作品采用知识共享组织署名-相同方式共享 2.5 中国大陆许可协议进行授权。查看本许可协议的复制件，请访问http://creativecommons.org/licenses/by-sa/2.5/cn/或写信到美国加利福尼亚州旧金山市霍华德街543号5层知识共享组织（邮编 94105）索取。
 本作品係依據共享創意署名-相同方式共享 3.0 香港 授權條款進行授權。如欲瀏覽本授權條款之副本，請造訪 http://creativecommons.org/licenses/by-sa/3.0/hk/ ，或寄信至 Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA 。
 "
 注意事项：添加时请先查找词条是否已经存在；
-en,zh_TW,zh_CN,zh_HK,pos,description,context,example,note
 access,存取,访问,存取,verb
 accessibility,輔助功能/無障礙輔助,无障碍/辅助,無障礙輔助
 Accumulate,累積,累计,累積,verb
@@ -289,7 +289,7 @@ trunk,主幹,主干/主要,主幹
 ultraviolet,紫外線,紫外线,紫外線
 underrun,,溢出,溢出
 undo,復原/取消,撤销/取消
-redo,,重做/反撤销
+redo,,重做/反撤销,,
 universal serial bus,,通用串行总线,,,USB
 update,更新,更新,更新,noun,,software
 upgrade,升級,升级,升級,noun,,software/system
@@ -314,5 +314,9 @@ zig-zag,,,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
 zoom in,拉近,放大
 zoom out,拉遠,缩小
-public key,,公匙
-private key,,私匙
+public key,,公匙,,
+private key,,私匙,,
+pre-installation,,安装前,,,,kickstart 安装
+post-installation,,安装后,,,,kickstart 安装
+group,,组,,
+metadata,,元数据,,
