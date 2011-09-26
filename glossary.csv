@@ -8,13 +8,13 @@ access,存取,访问,存取,verb
 accessibility,輔助功能/無障礙輔助,无障碍/辅助,無障礙輔助
 Accumulate,累積,累计,累積,verb
 Accumulation,累積,累计,累積,noun
-acknowledge,,,得知
+acknowledge,,承认/认知,得知
 acknowledgement,,,知情
 administrator,管理員,管理员,管理員,,,system account
 algorithm,演算法,算法,算法
 analog,類比,类似/比较/模拟,類比
 analysis,分析,分析,分析
-analyst,,,分析員
+analyst,,分析家/分析者,分析員
 anonymous,匿名,匿名,匿名,noun
 antenna,天線,天线,天綫
 application,應用程式,应用程序/程序,應用程式
@@ -64,11 +64,11 @@ connect,連接,连接,連接
 connection,連線,连接,連綫,noun,,,connect a connection
 content,內容,内容,內容,,,,cordless mouse
 cordless,無線,无线,無綫
-CPU,中央處理器,中央处理器,中央處理器,noun
+CPU,中央處理器,中央处理器/CPU,中央處理器,noun
 cracker,駭客,骇客,駭客
 create,建立,创建,新增,verb
 cursor,游標,光标,箭嘴,noun
-CVS,,,,,,development
+CVS,,CVS,,,,development
 daemon,幕後程式/守護程式,守护程序,,,,,service daemon
 data,資料,数据,資料
 debugger,除錯器,调试器,除蟲器,noun,,software development
@@ -86,7 +86,7 @@ directory,目錄,目录/文件夹,目錄,noun
 disc,碟片,光盘,碟片,,,,optical disc
 disk,磁碟,磁盘,磁碟
 display card,顯示卡,显卡,顯示卡
-document,文件,文件,文件,noun
+document,文件,文件/文档,文件,noun
 documentation,文件,文件,文件,,,internet
 domain,網域,域,,noun
 draft,草稿,草稿,草稿,noun
@@ -117,7 +117,7 @@ freezed,凍結,冻结,當機,adj,,,translation po file is freezed
 function,函數,函数,函数,noun,,program
 gadget,小工具,小工具
 gateway,閘道,网关,閘道,noun,,network
-git,git,,,,,"vcs, software"
+git,git,git,,,,"vcs, software"
 global,全域,全局的,全局,adj
 grammar,文法,语法,文法
 Graphical User Interface,圖形化使用者介面,图形用户界面
@@ -147,10 +147,10 @@ instruction,指示,指令,指令
 integration,整合,整合/集成,集成,,,,,我試譯的(chanueting)
 internationalization,國際化,国际化,國際化,noun
 journal,日誌,日志,日誌
-kbd,鍵盤,,,,keyboard 縮寫,virtual kbd
+kbd,鍵盤,键盘,,,keyboard 縮寫,virtual kbd
 kernel,核心,内核,核心,noun
 keyboard,鍵盤,键盘,鍵盤
-license,授權條款,授权协议,授權書
+license,授權條款,授权协议/许可证,授權書
 lifecycle,生命週期,生命周期,生命週期
 link,連結,链接,連結,noun
 Linus Torvalds,林納斯‧托瓦茲 ,林纳斯-托瓦兹,林納斯-托瓦茲
@@ -310,7 +310,7 @@ widget,小工具,控件
 wired,有線,有线,有綫
 wireless,無線,无线,無綫
 write,寫入,写入,寫入
-zig-zag,,,之字形
+zig-zag,,之字形,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
 zoom in,拉近,放大
 zoom out,拉遠,缩小
