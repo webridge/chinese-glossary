@@ -146,6 +146,8 @@ instant messenger,即時通訊程式,即时通讯
 instruction,指示,指令,指令
 integration,整合,整合/集成,集成,,,,,我試譯的(chanueting)
 internationalization,國際化,国际化,國際化,noun
+internet,,互联网,,
+Internet,,因特网,,
 journal,日誌,日志,日誌
 kbd,鍵盤,键盘,,,keyboard 縮寫,virtual kbd
 kernel,核心,内核,核心,noun
@@ -276,6 +278,7 @@ terminal,終端機,终端,終端機,noun
 terminate,終止,终止,終止
 text-mode,文字模式,文本模式,文字模式
 theme,主題/佈景主題,主题,主題
+theorem prover,,定理证明器,noun,,,,也叫自动推理机
 token,,令牌,,,,network,token network
 touchpad,觸控板,触摸板,觸控板
 trackball,軌跡球,轨迹球,軌跡球
