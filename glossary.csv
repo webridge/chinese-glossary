@@ -69,6 +69,7 @@ cracker,駭客,骇客,駭客
 create,建立,创建,新增,verb
 cursor,游標,光标,箭嘴,noun
 CVS,,CVS,,,,development
+cyclomatic complexity,,圈复杂度,,noun,,programming,,也叫循环复杂度
 daemon,幕後程式/守護程式,守护程序,,,,,service daemon
 data,資料,数据,資料
 debugger,除錯器,调试器,除蟲器,noun,,software development
