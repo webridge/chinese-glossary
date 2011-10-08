@@ -11,6 +11,7 @@ Accumulation,累積,累计,累積,noun
 acknowledge,,承认/认知,得知
 acknowledgement,,,知情
 administrator,管理員,管理员,管理員,,,system account
+additional,,附加的/额外的,,adj,,,,译为附加的似乎更好
 algorithm,演算法,算法,算法
 analog,類比,类似/比较/模拟,類比
 analysis,分析,分析,分析
@@ -131,6 +132,7 @@ hard drive / hard disk,硬碟,硬盘,硬碟機,noun
 hardware,硬體,硬件,硬體
 help,求助/幫助/說明,帮助,,,,,help file,zh_TW 目前沒有統一的翻法，各自為政。
 high definition,高解析度,高清,高清
+hook,,挂钩,,noun/verb,,software system,,参考了progit的翻译
 host machine,主控機,宿主机,主機器,noun,叫主機很怪 (kaio),virtualization
 hotplug,熱插拔,热插拔,熱插拔,noun
 IM,即時通,即时通讯,,,Instant Messenger 縮寫
@@ -269,6 +271,7 @@ spreadsheet,試算表,电子表格,試算表
 stack,堆疊,堆栈,堆疊
 strategy,策略/方針,策略,策略
 structure,結構,结构,結構
+subprocess,,子过程,,noun,,,Python有同名模块,与child process子进程有别
 Sync,同步,同步,同步,accr.
 synchronization,同步,同步,同步,noun
 synchronize,同步,同步,同步,verb
