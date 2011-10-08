@@ -10,6 +10,7 @@ Accumulate,累積,累计,累積,verb
 Accumulation,累積,累计,累積,noun
 acknowledge,,承认/认知,得知
 acknowledgement,,,知情
+additional,,附加的/额外的,,adj,,,,译为附加的似乎更好
 administrator,管理員,管理员,管理員,,,system account
 algorithm,演算法,算法,算法
 analog,類比,类似/比较/模拟,類比
@@ -69,6 +70,7 @@ cracker,駭客,骇客,駭客
 create,建立,创建,新增,verb
 cursor,游標,光标,箭嘴,noun
 CVS,,CVS,,,,development
+cyclomatic complexity,,圈复杂度,,noun,,programming,,也叫循环复杂度
 daemon,幕後程式/守護程式,守护程序,,,,,service daemon
 data,資料,数据,資料
 debugger,除錯器,调试器,除蟲器,noun,,software development
@@ -123,6 +125,7 @@ grammar,文法,语法,文法
 Graphical User Interface,圖形化使用者介面,图形用户界面
 graphics,圖形,图形/图像,圖像
 graphics card,顯示卡/圖形卡,显卡/图形卡,圖像卡
+group,,组,,
 guest machine,客戶機,客户机,客機器,noun,,virtualization
 hacker,駭客,黑客,黑客
 hang,當機,死机,當機
@@ -130,6 +133,7 @@ hard drive / hard disk,硬碟,硬盘,硬碟機,noun
 hardware,硬體,硬件,硬體
 help,求助/幫助/說明,帮助,,,,,help file,zh_TW 目前沒有統一的翻法，各自為政。
 high definition,高解析度,高清,高清
+hook,,挂钩,,noun/verb,,software system,,参考了progit的翻译
 host machine,主控機,宿主机,主機器,noun,叫主機很怪 (kaio),virtualization
 hotplug,熱插拔,热插拔,熱插拔,noun
 IM,即時通,即时通讯,,,Instant Messenger 縮寫
@@ -146,6 +150,8 @@ instant messenger,即時通訊程式,即时通讯
 instruction,指示,指令,指令
 integration,整合,整合/集成,集成,,,,,我試譯的(chanueting)
 internationalization,國際化,国际化,國際化,noun
+internet,,互联网,,
+Internet,,因特网,,
 journal,日誌,日志,日誌
 kbd,鍵盤,键盘,,,keyboard 縮寫,virtual kbd
 kernel,核心,内核,核心,noun
@@ -169,6 +175,7 @@ Master Boot Record,主要開機紀錄區,主引导记录,主開機磁區,,harddi
 media,媒體,介质,媒介,noun,,,installation media,是我命名的(chanueting)
 memory,記憶體,内存,記憶體,noun
 merge,合併,合并,融合
+metadata,,元数据,,
 method,方法,方法,方法
 micromanagement,微控制,微控/微管,矯枉過正管理
 middleware,中介軟體,中间件,仲介軟體
@@ -179,10 +186,12 @@ module,模組,模块,,noun,,,loading module %s...
 monitor,監控,监视,監控,verb
 motherboard / mainboard,主機板,主板,主機板
 mouse,滑鼠,鼠标,滑鼠,noun
+moving map display,,移动地图显示器,,noun,,地图导航,,
 network,網路,网络,網絡
 node,,节点,,noun
 notebook,筆記型電腦,笔记本,手提電腦
 offline,離線,离线,離綫
+on-screen keyboard,,屏幕键盘,,
 online,上線,在线,綫上
 operating system,作業系統,操作系統,作業系統
 optical disc,光碟,光盘,光碟,noun
@@ -200,15 +209,20 @@ pixel,像素/畫素,像素,像素
 plan,計畫,规划,規劃
 play,播放,播放,,verb
 plugin,外掛程式,插件,外掛程式,noun
+points of interest,,兴趣点,,noun,,地图导航,,
+post-installation,,安装后,,,,kickstart 安装
+pre-installation,,安装前,,,,kickstart 安装
 presentation,演講,介绍/演示,演示
 presenter,演講者,主持人,演示者
 printer,印表機,打印机,打印機
+private key,,私匙,,
 product manager,,产品经理,產品經理
 programming,程式設計,编程,寫程式
 project,專案,项目,計劃
 project manager,,项目经理,專案經理
 property,屬性,属性,特性
 protocol,協定,协议,,noun,,,transmission control protocol
+public key,,公匙,,
 queue,佇列,队列,佇列
 RAID level,,阵列+（级/等）,,,,harddisk configuration,The system was configured as RAID level 0 (or RAID 0)
 RAM,隨機存取記憶體,随机存取存储器/随机存储器 ,隨機存取記憶體,noun
@@ -218,6 +232,7 @@ record,記錄,记录,記錄
 recover,復原,复原,復原,verb
 recovery,復原,复原,復原,noun
 recursive,遞迴,递归,遞迴
+redo,,重做/反撤销,,
 redundant array of independent disks,,独立磁盘冗余阵列,,,RAID,hardware harddisk,,"Sometimes translates as 'Redundant array of inexpensive disks', abbreviated as RAID"
 reject,拒絕,拒绝,拒絶
 release,發行,发布,發行,verb,,,Fedora 13 will be released soon！
@@ -265,6 +280,7 @@ spreadsheet,試算表,电子表格,試算表
 stack,堆疊,堆栈,堆疊
 strategy,策略/方針,策略,策略
 structure,結構,结构,結構
+subprocess,,子过程,,noun,,,Python有同名模块,与child process子进程有别
 Sync,同步,同步,同步,accr.
 synchronization,同步,同步,同步,noun
 synchronize,同步,同步,同步,verb
@@ -276,6 +292,7 @@ terminal,終端機,终端,終端機,noun
 terminate,終止,终止,終止
 text-mode,文字模式,文本模式,文字模式
 theme,主題/佈景主題,主题,主題
+theorem prover,,定理证明器,noun,,,,也叫自动推理机
 token,,令牌,,,,network,token network
 touchpad,觸控板,触摸板,觸控板
 trackball,軌跡球,轨迹球,軌跡球
@@ -289,7 +306,6 @@ trunk,主幹,主干/主要,主幹
 ultraviolet,紫外線,紫外线,紫外線
 underrun,,溢出,溢出
 undo,復原/取消,撤销/取消
-redo,,重做/反撤销,,
 universal serial bus,,通用串行总线,,,USB
 update,更新,更新,更新,noun,,software
 upgrade,升級,升级,升級,noun,,software/system
@@ -314,9 +330,3 @@ zig-zag,,之字形,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
 zoom in,拉近,放大
 zoom out,拉遠,缩小
-public key,,公匙,,
-private key,,私匙,,
-pre-installation,,安装前,,,,kickstart 安装
-post-installation,,安装后,,,,kickstart 安装
-group,,组,,
-metadata,,元数据,,
