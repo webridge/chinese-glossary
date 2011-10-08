@@ -184,6 +184,7 @@ module,模組,模块,,noun,,,loading module %s...
 monitor,監控,监视,監控,verb
 motherboard / mainboard,主機板,主板,主機板
 mouse,滑鼠,鼠标,滑鼠,noun
+moving map display,,移动地图显示器,,noun,,地图导航,,
 network,網路,网络,網絡
 node,,节点,,noun
 notebook,筆記型電腦,笔记本,手提電腦
@@ -325,6 +326,7 @@ zoom out,拉遠,缩小
 public key,,公匙,,
 private key,,私匙,,
 pre-installation,,安装前,,,,kickstart 安装
+points of interest,,兴趣点,,noun,,地图导航,,
 post-installation,,安装后,,,,kickstart 安装
 group,,组,,
 metadata,,元数据,,
