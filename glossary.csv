@@ -322,11 +322,11 @@ VPN,虛擬私人網路,虚拟专用网络,虚擬私人網絡
 warranty,保固/保證,保修,保用
 webcam,網路攝影機,摄像头,視像鏡頭
 widescreen,寬螢幕,宽屏,寬螢幕
-widget,小工具,控件
+widget,小工具,控件,,noun,,GUI,,
 wired,有線,有线,有綫
 wireless,無線,无线,無綫
 write,寫入,写入,寫入
 zig-zag,,之字形,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
-zoom in,拉近,放大
-zoom out,拉遠,缩小
+zoom in,拉近,放大,,,,,,
+zoom out,拉遠,缩小,,,,,,
