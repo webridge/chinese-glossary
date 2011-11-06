@@ -122,6 +122,7 @@ gadget,小工具,小工具
 gateway,閘道,网关,閘道,noun,,network
 git,git,git,,,,"vcs, software"
 global,全域,全局的,全局,adj
+GPG key,,GPG 密钥,,noun,,密码学,,
 grammar,文法,语法,文法
 Graphical User Interface,圖形化使用者介面,图形用户界面
 graphics,圖形,图形/图像,圖像
@@ -217,14 +218,14 @@ pre-installation,,安装前,,,,kickstart 安装
 presentation,演講,介绍/演示,演示
 presenter,演講者,主持人,演示者
 printer,印表機,打印机,打印機
-private key,,私匙,,
+private key,,私钥,,
 product manager,,产品经理,產品經理
 programming,程式設計,编程,寫程式
 project,專案,项目,計劃
 project manager,,项目经理,專案經理
 property,屬性,属性,特性
 protocol,協定,协议,,noun,,,transmission control protocol
-public key,,公匙,,
+public key,,公钥,,
 queue,佇列,队列,佇列
 RAID level,,阵列+（级/等）,,,,harddisk configuration,The system was configured as RAID level 0 (or RAID 0)
 RAM,隨機存取記憶體,随机存取存储器/随机存储器 ,隨機存取記憶體,noun
