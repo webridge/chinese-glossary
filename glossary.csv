@@ -47,6 +47,7 @@ build,組建,构建,組建,,,,build version: %s
 burn,燒錄,刻录,燒,verb,,,burn an image
 cable,纜線,电缆,電線
 cache,快取,缓存,快取,noun
+cache-oblivious,,高速缓存参数无关的,,adj,,算法,,
 CD,CD,CD,光碟
 changelog,修改記錄,更改记录/修改记录,修改記錄
 check,檢查,检查,檢查
