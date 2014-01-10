@@ -1,19 +1,24 @@
-#!/usr/bin/python3.3
-## Convert csv file to Wiki page format
+#! /usr/bin/env python3.3
+# Convert csv file to Wiki page format
+# 将 csv 文件转换为维基页面的表格
 
-try:
-    import tkinter as tk
+# This is my first python script that does some real work :-)
+# Written by Tian Shixiong <tiansworld@fedoraproject.org>
+# License: GPLv3+
 
-except ImportError as ie:
-    print('Import tkinter failed:',ie,'GUI read file won\'t work.',
-          'Use open function instead' + '\n')
-    filename = input('Please input filename include its path')
-    file_to_read = open(filename,'r')
-    savename = input('Please input the filename that you want to save, include its path')
-    file_to_save = open(savename,'w')
-else:
-    file_to_read = tk.filedialog.askopenfile('r')
-    file_to_save = tk.filedialog.asksaveasfile('w')
+#try:
+#import tkinter as tk
+
+#except ImportError as ie:
+#    print('Import tkinter failed:',ie,'GUI read file won\'t work.',
+#          'Use open function instead' + '\n')
+filename = input('Please input the filename to convert, include its path if you need, but don\'t add quotes: ')
+file_to_read = open(filename,'r')
+savename = input('Please input the filename that you want to save, include its path if you need, but don\'t add quotes: ')
+file_to_save = open(savename,'w')
+#else:
+#file_to_read = tk.filedialog.askopenfile('r')
+#file_to_save = tk.filedialog.asksaveasfile('w')
     
 
 class ConvertFile:
