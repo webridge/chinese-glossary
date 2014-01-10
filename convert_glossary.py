@@ -1,4 +1,6 @@
+#!/usr/bin/python3.3
 ## Convert csv file to Wiki page format
+
 try:
     import tkinter as tk
 
