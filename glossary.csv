@@ -329,5 +329,12 @@ wireless,無線,无线,無綫
 write,寫入,写入,寫入
 zig-zag,,之字形,之字形
 zoom,拉近拉遠,缩放,,,,,,zh_TW 這樣翻譯是為了與 scale 進行區分。
-zoom in,拉近,放大,,,,,,
-zoom out,拉遠,缩小,,,,,,
+zoom in,拉近,放大
+zoom out,拉遠,缩小
+public key,,公钥,,
+private key,,私钥,,
+pre-installation,,安装前,,,,kickstart 安装
+post-installation,,安装后,,,,kickstart 安装
+group,,组,,
+metadata,,元数据,,
+revoke,,吊销,,
